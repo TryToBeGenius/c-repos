@@ -10,4 +10,4 @@ else{
     else{
         Console.WriteLine(num1 / 10);
     }
-}св
+}
